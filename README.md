@@ -4,4 +4,4 @@ It is the replica of there own website [thinkgestalt.com](https://thinkgestalt.c
 
 This project is deployed using Heroku.
 
-You can view the webpage by following this link [thinkgestalt]{https://enigmatic-meadow-33858.herokuapp.com/}
+You can view the webpage by following this link [thinkgestalt](https://enigmatic-meadow-33858.herokuapp.com/)
